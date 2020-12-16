@@ -2,6 +2,8 @@
 
 Implementation of the three Huffman coding functions mentioned bellow as part of a digital telecommunications course. I used Octave, because the assignment had to be explicitly implemented in Matlab or Octave. As I cannot afford to buy Matlab I chose Octave. 
 
+As of December 2020, a Matlab R2020b version of the three functions has been added.
+
 #### content
  * myhuffmandict - Generate Huffman code dictionary for source with known probability mode
  * myhuffmanenco - Huffman encoder
